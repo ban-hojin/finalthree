@@ -81,6 +81,7 @@ input:focus {
 .menus {
   display: flex;
   justify-content: center;
+  flex-direction:colum;
 }
 .menus button:hover {
   background: #0d6efd;
@@ -89,7 +90,6 @@ input:focus {
 .menus button {
   border: none;
   background-color: #fff;
-  flex-direction:colum;
 
   width: 130px;
   height: 30px;
