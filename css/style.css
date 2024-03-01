@@ -89,6 +89,7 @@ input:focus {
 .menus button {
   border: none;
   background-color: #fff;
+  flex-direction:colum;
 
   width: 130px;
   height: 30px;
